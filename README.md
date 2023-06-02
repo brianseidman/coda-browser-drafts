@@ -30,7 +30,7 @@ The Drafts action will show a list of your most recently used docs, followed by 
 
 If you select an individual table, the Drafts action will offer "Rows" or "Exit to Column JSON." The Column JSON is Coda's API metadata for the table's columns, again saved to Drafts. 
 
-"Rows" will give you the option to select specific columns in the table, and then will return all the row data from that table, filtered to the specific columns and saved in Drafts. (This is formatted in "Coda Values format"; see more below.)
+"Rows" will give you the option to select specific columns in the table, and then will return all the row data from that table, filtered to the specific columns and saved in Drafts. (This is formatted in ["Coda Values format."](https://github.com/brianseidman/coda-browser-drafts#coda-values-format))
 
 ### Sending Data to Coda
 
