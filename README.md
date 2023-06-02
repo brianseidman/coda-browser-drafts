@@ -114,7 +114,7 @@ As well, any array of objects formatted with a "values" key and then key/value p
 
 ## Preferences
 
-The Coda Browser for Alfred is set for choosing between five docs, 20 tables, and 15 columns, sorted by most recently changed and then alphabetically. These limits be changed by modifying the specified variables below, found in the first step of the Drafts action.
+The Coda Browser for Alfred is set for choosing between five docs, 20 tables, and 15 columns, sorted by most recently changed and then alphabetically. These limits can be changed by modifying the specified variables below, found in the first step of the Drafts action.
 
 ```
 const limits = {
