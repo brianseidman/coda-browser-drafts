@@ -1,10 +1,10 @@
+"use strict";
+
 const limits = {
 	docLimit: 5,
 	tableLimit: 20,
 	columnLimit: 15,
 };
-
-"use strict";
 
 const f = () => {
 
