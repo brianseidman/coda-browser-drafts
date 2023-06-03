@@ -2,7 +2,7 @@
 
 Coda Browser for Drafts is a [Drafts](https://getdrafts.com) action that assists you in **sending** and **retrieving** information to and from your [Coda](https://coda.io) docs, using Drafts as an intermediary.
 
-![Coda Browser for Drafts dialogue box](coda-browser-drafts-image.png)
+![Coda Browser for Drafts dialogue box](images/coda-browser-drafts-image.png)
 
 Easy setup:
 
