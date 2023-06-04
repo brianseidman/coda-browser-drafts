@@ -4,7 +4,7 @@ Coda Browser for Drafts is a [Drafts](https://getdrafts.com) action that assists
 
 ![Coda Browser for Drafts dialogue box](images/coda-browser-drafts-image.png)
 
-## Easy setup:
+## Easy setup
 
 - 💻 Download and install the Coda Browser for Drafts action.
 - 🔐 Enter your [Coda API](https://coda.io/account) when prompted.
